@@ -5,7 +5,7 @@
 [![code style](https://img.shields.io/badge/code_style-XO-5ed9c7.svg?style=flat-square)](https://github.com/sindresorhus/xo)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![made with lass](https://img.shields.io/badge/made_with-lass-95CC28.svg?style=flat-square)](https://lass.js.org)
-[![license](https://img.shields.io/github/license/andreaspizsa/require-maybe.svg?style=flat-square)](LICENSE)
+[![license](https://img.shields.io/github/license/andreaspizsa/require-maybe.svg?style=flat-square)](LICENSE) [![Greenkeeper badge](https://badges.greenkeeper.io/AndreasPizsa/require-maybe.svg)](https://greenkeeper.io/)
 
 > Optionally require a module, optionally falling back to others.
 
